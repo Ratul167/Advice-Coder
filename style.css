@@ -22,8 +22,8 @@ body {
 .main {
     
 
-    height: 50%;
-    width: 50%;
+    height: 68%;
+    width: 55%;
     border-radius: 25px;
     text-align: center;
 
@@ -102,3 +102,19 @@ a {
     font-family: 'Fira Sans', sans-serif;
 
 }
+
+@media only screen and (max-width: 600px) {
+    .main{
+    
+      height: 70%;
+      width: 60%;
+      
+      
+      
+   
+      border-radius: 20px;
+   
+   
+   }
+  }
+  
